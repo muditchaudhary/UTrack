@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="statusSpinnerItems">
+        <item>Not Submitted</item>
+        <item>Incomplete Submission</item>
+        <item>Submitted</item>
+        <item>Waitlisted</item>
+        <item>Rejected</item>
+        <item>Accepted</item>
+    </string-array>
+    <string-array name="TransTypeSpinnerItems">
+        <item>Official Softcopy</item>
+        <item>Official Hardcopy</item>
+    </string-array>
+    <string-array name="TransStatusSpinnerItems">
+        <item>Not Submitted</item>
+        <item>Submitted</item>
+    </string-array>
+    <string-array name="TestStatusSpinnerItems">
+        <item>Scores Not Sent</item>
+        <item>Score Sent</item>
+        <item>Scores Received</item>
+        <item>Not Required</item>
+    </string-array>
+    <string-array name="RecStatusSpinnerItems">
+        <item>Not Submitted</item>
+        <item>Sent Request</item>
+        <item>Submitted</item>
+        <item>Not Required</item>
+    </string-array>
+</resources>
